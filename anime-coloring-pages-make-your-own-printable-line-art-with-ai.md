@@ -1,6 +1,3 @@
-layout: default
-title: Anime Coloring Pages: Make Your Own Printable Line Art With AI
-
 # Anime Coloring Pages: Make Your Own Printable Line Art With AI
 You want **anime coloring pages**, but the free ones online are the same designs over and over, and AI line art often prints with gray smudges or lines that don’t close. 
 
