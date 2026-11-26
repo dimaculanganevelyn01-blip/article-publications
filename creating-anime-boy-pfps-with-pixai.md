@@ -1,5 +1,5 @@
 # Creating Anime Boy PFPs with PixAI
-![Anime boys PFPs viewed in circular crops.](https://github.com/dimaculanganevelyn01-blip/article-publications/blob/main/images/Anime%20Boy%20PFP/Cover%20Image.png) 
+![Anime boys PFPs viewed in circular crops.](https://github.com/dimaculanganevelyn01-blip/article-publications/blob/main/Anime%20Boy%20PFP/Cover%20Image.png?raw=true) 
 
 **Anime boy PFPs** are a simple way to give an online profile its own identity. Instead of using an existing character, you can generate an original anime boy based on your preferred appearance, outfit, and aesthetic.
 
